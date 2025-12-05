@@ -1,0 +1,16 @@
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\bin\Debug\net8.0-windows\Example04.exe
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\bin\Debug\net8.0-windows\Example04.deps.json
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\bin\Debug\net8.0-windows\Example04.runtimeconfig.json
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\bin\Debug\net8.0-windows\Example04.dll
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\bin\Debug\net8.0-windows\Example04.pdb
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.Form1.resources
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.csproj.GenerateResource.cache
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.GeneratedMSBuildEditorConfig.editorconfig
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.AssemblyInfoInputs.cache
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.AssemblyInfo.cs
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.csproj.CoreCompileInputs.cache
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.dll
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\refint\Example04.dll
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.pdb
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\Example04.genruntimeconfig.cache
+D:\DinhQuocAnh_2122110103\DinhQuocAnh_2122110103\Example04\obj\Debug\net8.0-windows\ref\Example04.dll
